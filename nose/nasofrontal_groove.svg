@@ -1,15 +1,15 @@
 <svg width="44" height="47" viewBox="0 0 44 47" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="Group 3396">
+<g id="Group 3395">
 <g id="Group">
 <path id="Vector" d="M11.7014 1C12.0942 2.62113 12.7084 10.4768 10.3445 16.8007C8.36273 22.1068 4.76339 27.9415 2.86017 30.7195C0.414191 34.2867 0.54631 38.4753 2.29242 40.4963C4.21706 42.728 6.32025 43.5886 8.7698 43.5886" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 <path id="Vector_2" d="M7.09521 40.5108C7.77366 39.943 9.20554 39.1003 10.8481 39.1432C12.4907 39.186 14.2832 40.4786 15.7722 41.8784C17.2612 43.2781 19.0894 45.0528 21.9353 45.0528" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 <path id="Vector_3" d="M32.1652 1C31.7724 2.62113 31.1582 10.4768 33.5221 16.8007C35.5039 22.1068 39.1032 27.9415 41.0064 30.7195C43.4524 34.2867 43.3203 38.4753 41.5742 40.4963C39.6495 42.728 37.5464 43.5886 35.0968 43.5886" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 <path id="Vector_4" d="M36.7718 40.5108C36.0933 39.943 34.6614 39.1003 33.0189 39.1432C31.3763 39.186 29.5838 40.4786 28.0948 41.8784C26.6058 43.2781 24.7775 45.0528 21.9316 45.0528" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 <g id="Ellipse 11">
-<circle cx="22" cy="17" r="3" fill="#FF3939"/>
-<circle cx="22" cy="17" r="3" fill="#FF3939"/>
-<circle cx="22" cy="17" r="3" fill="#FF3939"/>
-<circle cx="22" cy="17" r="3" fill="#FF3939"/>
+<circle cx="22" cy="5" r="3" fill="#FF3939"/>
+<circle cx="22" cy="5" r="3" fill="#FF3939"/>
+<circle cx="22" cy="5" r="3" fill="#FF3939"/>
+<circle cx="22" cy="5" r="3" fill="#FF3939"/>
 </g>
 </g>
 </g>
